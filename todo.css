@@ -1,0 +1,31 @@
+.container{
+    border: 2px solid red;
+    margin: 100px;
+    /* height: 30vh; */
+    width: 500px;
+    text-align: center;
+    color: rgb(255, 68, 0);  
+    font-size: 20px; 
+    font-style:italic;
+    border-radius: 15px;
+    background-color: rgb(101, 209, 225);
+}
+input{
+    height: 30px;
+    width: 200px;
+    border-radius: 5px;
+}
+button.Add{
+    height: 35px;
+    border-radius: 5px;
+    background-color:orange;
+    color: rgb(188, 118, 118);
+   
+}
+button.remove{
+    height: 35px;
+    border-radius: 5px;
+    background-color:rgb(255, 38, 0);
+    color: rgb(214, 149, 149);
+   
+}
